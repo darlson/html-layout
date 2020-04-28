@@ -11,13 +11,13 @@ body {
 
 .body {
     height: 70vh;
-    width: 70vw;
-    margin: 0 15vw;
+    width: 80vw;
+    margin: 0 10vw;
     background-color: linen;
 }
 .footer {
     height: 10vh;
-    width: 70vw;
-    margin: 0 15vw;
+    width: 80vw;
+    margin: 0 10vw;
     background-color: #2c2c2c;
 }
