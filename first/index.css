@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background-color: #cdcdcd;
+
+}
+.header {
+    height: 20vh;
+    width: 100vw;
+    background-color: #555555;
+}
+
+.body {
+    height: 70vh;
+    width: 70vw;
+    margin: 0 15vw;
+    background-color: linen;
+}
+.footer {
+    height: 10vh;
+    width: 70vw;
+    margin: 0 15vw;
+    background-color: #2c2c2c;
+}
