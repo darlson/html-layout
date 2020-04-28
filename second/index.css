@@ -12,29 +12,20 @@
     border: 5px dotted black 
 }
 
-.bottom {
-    height: 35vh;
-    width: 50%;
-    margin: 10px auto;
-    padding: 30px;
-    border: 2px outset #cccccc;
-    box-shadow: 3px 3px 5px #cccccc;
-}
-
 .purple {
     height: 150px;
     width: 50px;
-    float: down;
     background-color: darkorchid;
     display: inline-block;
     margin: 80px 50px 0 0;
 }
 
 .green {
-    height: 220px;
+    height: 230px;
     width: 600px;
     background-color: green;
     display: inline-block;
+    
 }
 
 .blue {
@@ -51,15 +42,23 @@
     width: 90%;
     margin: 25px auto;
     background-color: lemonchiffon;
-    box-shadow: 10px 10px 10px #444444;
+    box-shadow: 10px 10px 15px #444444;
 
 }
-
+.bottom {
+    height: 32vh;
+    width: 50%;
+    margin: 10px auto;
+    padding: 30px;
+    border: 2px outset #cccccc;
+    box-shadow: 3px 3px 8px #cccccc;
+}
 .text {
+    height: 100%;
     text-align: center;
     color: navy;
     letter-spacing: 10px;
-    margin: auto;
+    margin: 15% auto;
     font-size: 30px;
     font-weight: bold;
 }
