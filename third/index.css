@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.top {
+    height: 12vh;
+    padding: 10px;
+    background-color: lightgrey;
+}
+
+.square {
+    height: 11vh;
+    width: 11vh;
+    margin: 0.5vh 2vw;
+    background-color: cornflowerblue;
+}
+
+.white {
+    height: 25vh;
+    background-color: white;
+}
+
+.white p {
+    height: 100%;
+    width: 80%;
+
+    text-align: left;
+    color: #222222;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    padding: 5vh;
+    font-size: 18px;
+    
+}
+
+.box {
+    height: 15vh;
+}
+
+.blue {
+    background-color: cornflowerblue;
+}
+
+.teal {
+    background-color: aquamarine;
+}
+
+.faded {
+    background-color: rgb(201, 218, 141);
+}
+
+.yellow {
+    background-color: goldenrod;
+}
